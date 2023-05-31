@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/trogl1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl9"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl15"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl16"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl17"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl18"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl19"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl20"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl21"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl22"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl23"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl24"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl25"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl26"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl27"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl28"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl29"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl30"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl31"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl32"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl33"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl34"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl35"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl36"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl37"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl38"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl39"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl40"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl41"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/trogl42"
+        android:duration="100" />
+</animation-list>
